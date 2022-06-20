@@ -1,3 +1,5 @@
 # TFE_ERT
 
-Répertoire comportant les notebooks dévellopés et données récoltées au cours de mon TFE dont le sujet est : Apport d'électrodes enterrées à l'imagerie par tomographie de résistivité électrique. Les simulations et inversions ont été réalisées au moyen de pyGIMLi.
+Répertoire comportant les notebooks dévellopés et données récoltées au cours de mon TFE dont le sujet est : Apport d'électrodes enterrées à l'imagerie par tomographie de résistivité électrique (ERT). Les simulations et inversions ont été réalisées au moyen de pyGIMLi.
+
+Le but de ce TFE est d’étudier ce que peuvent apporter aux ERT des mesures réalisées au moyen d’un réseau d’électrodes horizontal enterré par un CPT-e, sous un réseau en surface. Pour ce faire, après avoir développé des séquences de mesures composées de dispositifs intégrant des électrodes enterrées, des simulations numériques ont été effectuées. Deux modèles ont été utilisés : un modelé karstique recouvert par une épaisse couverture conductrice et des panaches de pollution récents pour lequel des courts profils électriques sont utilisés. Enfin, les aspects de mise en oeuvre de cette technique ont été examinés au cours d’un test en vrai grandeur sur le site d’un effondrement karstique réel survenu à Neufvilles. Ainsi, six électrodes ont pu être implantées à une profondeur variant de 7.3 à 9.2 m.
